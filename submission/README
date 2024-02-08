@@ -1,0 +1,10 @@
+Introduction:
+
+- ETL.ipynb is the main notebook and entrypoint
+- sql_queries.py has all the SQL queries.
+- PROCESSED subdirectory will be created if processed data needs to be saved as well.
+- tubing.db is the actual database file.
+
+Open the ETL.ipynb notebook and execute it.
+
+
